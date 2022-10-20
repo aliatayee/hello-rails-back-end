@@ -12,7 +12,7 @@
 [React Repo](https://github.com/aliatayee/hello-react-front-end)
 ### Install & Setup
 
-To setup and install this sample AlFa Blog project, follow the below steps:
+To setup and install this sample project, follow the below steps:
 - Clone this project by the command: 
   ```
   git clone https://github.com/aliatayee/hello-rails-back-end
